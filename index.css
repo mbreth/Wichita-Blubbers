@@ -90,6 +90,10 @@ h1 {
     font-size: 30px;
   }
 
+  #prices {
+    font-size: 25px;
+  }
+
   #total {
     width: 50%;
   }
